@@ -12,7 +12,8 @@ Mobile mock-ups(https://www.figma.com/file/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?ty
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/e9ac55f9-06c0-4183-b602-27683fb3cf3a?width=1198&height=369)
 
-Mobile Web Applications: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wireframes-TastyPoint?type=design&node-id=34-2&mode=design&t=KtxNjkLC11IMyY4J-0
+Desktop Web Applications: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wireframes-TastyPoint?type=design&node-id=34-2&mode=design&t=KtxNjkLC11IMyY4J-0
+![image](https://media.discordapp.net/attachments/973358848159133696/1169776180254224414/image.png?ex=6556a1f6&is=65442cf6&hm=e03618d87a1de83eb1a138aae137d89bead3abe4fb04c8e5a94429dc823c3319&=&width=1056&height=669)
 
 ### 6.4.4. Applications User Flow Diagrams
 
@@ -267,5 +268,5 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTkwNjQ0MDldfQ==
+eyJoaXN0b3J5IjpbLTg3NTQyNzQ5Ml19
 -->
