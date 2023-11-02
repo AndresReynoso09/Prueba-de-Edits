@@ -103,7 +103,22 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 
 | Repositorio | Commit | Mensaje | Autor |
 |-------------|-------------|-------------|-------------|
-| | | | |
+|TastyPoint-FrontEnd-Web-Application| | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application | | | |
 
 #### Sprint Backlog 1 Development Evidence Mobile Application
 
@@ -234,6 +249,6 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwNjkwMTgsMjA5Nzk0Mjk4NSwtODc1ND
-I3NDkyXX0=
+eyJoaXN0b3J5IjpbNjAzMDkyMDQ0LDIwOTc5NDI5ODUsLTg3NT
+QyNzQ5Ml19
 -->
