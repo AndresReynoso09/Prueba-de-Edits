@@ -103,11 +103,11 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 
 | Repositorio | Commit | Mensaje | Autor |
 |-------------|-------------|-------------|-------------|
-|TastyPoint-FrontEnd-Web-Application| | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application|a470f5737dae15a63a0080aea951bc398af104c4 |Added Web Application, currently missing features | Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |0379cc63d954d4fa82a0dd7381dcfd2a569f552a |Added Layout Segment |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |2542129dcb4ff17f51db920d04c20e35c42b2224 |Added Layout |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |696ce9bb78812e9521b8e084e503ac532542eef5 |Added Orders component |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |69a58e3e6e8c1d938b34d077c80e40d3e597f091 |Add |Andres Reynoso |
 |TastyPoint-FrontEnd-Web-Application | | | |
 |TastyPoint-FrontEnd-Web-Application | | | |
 |TastyPoint-FrontEnd-Web-Application | | | |
@@ -249,6 +249,6 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzMDkyMDQ0LDIwOTc5NDI5ODUsLTg3NT
-QyNzQ5Ml19
+eyJoaXN0b3J5IjpbMTI1MzY5MTE5OSwyMDk3OTQyOTg1LC04Nz
+U0Mjc0OTJdfQ==
 -->
