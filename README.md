@@ -111,14 +111,14 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 |TastyPoint-FrontEnd-Web-Application |38f092cc28157843bf12b4966efafc3f135db803 |added security |Claudia Rozas |
 |TastyPoint-FrontEnd-Web-Application |73842ea48ff9220629ef0462928c4ba10524c765 |added selling |Claudia Rozas |
 |TastyPoint-FrontEnd-Web-Application |2e21e5ed70651353dc83ca0daa3262e9b951ab87 |Added Publishing |Andres Reynoso |
-|TastyPoint-FrontEnd-Web-Application |4d53fb3046adf4e08ad4bfe3ad35bfc25c72223b | | |
-|TastyPoint-FrontEnd-Web-Application |885b8946b84a9c25a23d421dff403563e76d2323 | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application |4d53fb3046adf4e08ad4bfe3ad35bfc25c72223b |added selling |Claudia Rozas |
+|TastyPoint-FrontEnd-Web-Application |885b8946b84a9c25a23d421dff403563e76d2323 |added shared | Claudia Rozas|
+|TastyPoint-FrontEnd-Web-Application |ede4361d9f255c6039cb4e6fba140dc981e40be7 |added social |Claudia Rozas |
+|TastyPoint-FrontEnd-Web-Application |e1594fb0bffeffaf5fb09af99adacb7f30c8f37e |Fixed Routes | |
+|TastyPoint-FrontEnd-Web-Application |e97b5f65586ad8fe94619aa01c078a90811d6775 |Fixed routes and uses fake API | |
+|TastyPoint-FrontEnd-Web-Application |419c5538e26b57224ce5abe97e12899c30be2cb0 |F | |
+|TastyPoint-FrontEnd-Web-Application |249a54f1e60911a7a79c96837c97221ee2327ad4 | | |
+|TastyPoint-FrontEnd-Web-Application |96773931332614fea1c26f7d7c523f645b1500c2 | | |
 
 #### Sprint Backlog 1 Development Evidence Mobile Application
 
@@ -249,6 +249,6 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ2NzgyODQsMjA5Nzk0Mjk4NSwtOD
-c1NDI3NDkyXX0=
+eyJoaXN0b3J5IjpbNjk5OTMzMjE2LDIwOTc5NDI5ODUsLTg3NT
+QyNzQ5Ml19
 -->
