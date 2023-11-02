@@ -19,7 +19,7 @@ Desktop Web Applications: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wire
 ![image](https://media.discordapp.net/attachments/973358848159133696/1169777012647407716/image.png?ex=6556a2bd&is=65442dbd&hm=456b725ff48888a245150000d4c70fff4fd45ffbf26afdb8ff9bfb9cd641a3f9&=&width=1375&height=614)
 ![image](https://media.discordapp.net/attachments/973358848159133696/1169777071715795005/image.png?ex=6556a2cb&is=65442dcb&hm=113405fe1596edeb6774c9450baab29833c81b1abbbf6481fc3cd02b29823a7c&=&width=1085&height=669)
 ![image](https://media.discordapp.net/attachments/973358848159133696/1169777164019834910/image.png?ex=6556a2e1&is=65442de1&hm=097eeeb9c9c494abbd8ad9603ce0b72d1297bdce049d14d97690e9bcfb7dee86&=&width=978&height=669)
-![image](https://media.discordapp.net/attachments/973358848159133696/1169777164019834910/image.png?ex=6556a2e1&is=65442de1&hm=097eeeb9c9c494abbd8ad9603ce0b72d1297bdce049d14d97690e9bcfb7dee86&=&width=978&height=669)
+![image](https://media.discordapp.net/attachments/973358848159133696/1169777242654658631/image.png?ex=6556a2f4&is=65442df4&hm=0ba0d200c3d45188ee51b290392d631b4b235f9a6da860b4084bdf66180df77b&=&width=1380&height=630)
 
 
 ### 6.4.4. Applications User Flow Diagrams
@@ -275,5 +275,5 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNDg3NTQyLC04NzU0Mjc0OTJdfQ==
+eyJoaXN0b3J5IjpbMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
 -->
