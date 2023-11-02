@@ -1,80 +1,3 @@
-
-## Capítulo VII: Product Implementation, Validation & Deployment
-
-## 7.1. Software Configuration Management
-
-### 7.1.1. Software Development Environment Configuration
-
-Usaremos un set de herramientas que nos permitiran desarrollar las distitas soluciones que ofrecemos. Para una mejor visualicion, lo hemos separado en caterogias. En la siguiente lista podran observar las herramientas con sus enlaces de cada categoria.
-
-**Editores:**
-
-- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
-- [Visual Studio code](https://code.visualstudio.com/)
-
-**SDKs y Runtimes:**
-
-- [.Net 6 LTS](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks)
-- [Node 18.18.2 Hydrogen LTS](https://nodejs.org/en/download/releases)
-
-**Frameworks:**
-
-- [ASP.Net 6 LTS](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks)
-- [Vue 3](https://vuejs.org/)
-
-**Engines:**
-
-- [Unity LTS Release 2022.3.12f1](https://unity.com/releases/editor/qa/lts-releases)
-
-**Bases de datos:**
-
-- [MySql](https://www.mysql.com/)
-
-**Control de versiones:**
-
-- [Git](https://git-scm.com/)
-
-### 7.1.2. Source Code Management
-
-Par nuestro control de versiones usaremos [Git](https://git-scm.com/). Asimismo, usaremos [Github](https://github.com) para almacenar nuestros repositorios de git. Para una mayor organizacion, hemos creado una organizacion donde tendremos nuestros repositorios. Tambien nos facilitara crear equipos y restringir permisos. El enlace a la organizacion es el siguiente: [Organizacion](https://github.com/Arquitectura-Software-2023)
-
-| Desarrollo                | Repositorio                         | Enlace |
-|---------------------------|-------------------------------------|--------|
-| Proyecto                  | Project-Report                      | [Repositorio](https://github.com/Arquitectura-Software-2023/Project-Report) |
-| Landing Page              | TastyPoint-landing-page             | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-landing-page) |
-| Aplicacion Web - Frontend | TastyPoint-FrontEnd-Web-Application | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-FrontEnd-Web-Application) |
-| Aplicacion Web - Backend | Web-Services-TastyPoint             | [Repositorio](https://github.com/Arquitectura-Software-2023/Web-Services-TastyPoint) |
-| Aplicacion VR |              |  |
-
-### 7.1.3. Source Code Style Guide & Conventions
-
-Para nuestro Code Style, optamos por escoger los lineamientos de [Google](https://google.github.io/styleguide/). Esta decision fue tomada pues el equipo ya ha trabajdo anteriormente con esta guia de estimos.Asimismo, debido a la relevancia de esta guia de estilo, existen muchas herramientas que se encargan de asegurar que se cumpla atravez de linters y style checkers. Esto facilitada nuestra implementacion de nuestro pipeline de integracion continua. Finalmente, durante el desarrollo, agregaremos reglas especiales que solo se aplican a nuestro proyecto.
-
-### 7.1.4. Software Deployment Configuration
-
-Nuestro deployment se dara con distinta herramientas dependiendo del producto. Esto se debe a que poseemos creditos en ellas, lo cual nos permite lanzar un primer release sin elevar los costos planificados.
-
-| Desarrollo                | Nube                                 |
-|---------------------------|--------------------------------------|
-| Proyecto                  | [Github](https://github.com)         |
-| Landing Page              | [Azure](https://azure.microsoft.com) |
-| Aplicacion Web - Frontend |[Netlify](https://netlify.com) |
-| Aplicacion Web - Backtend |[Azure](https://azure.microsoft.com) |
-| Aplicacion VR | [Unity](https://unity.com/) |
-
-## 7.2. Solution Implementation
-
-### 7.2.1. Sprint 1
-
-#### 7.2.1.1. Sprint Planning 1
-
-| Sprint Planning | 1 |
-|-----------------|---|
-| Fecha | 16/10/2023 - 08:00 |
-| Lugar | Remote - Discord |
-| Asistentes | Todo el equipo |
-| Resultados y Acuerdos | Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration y Spring Backlog 1 |
-
 #### 7.2.1.2. Sprint Backlog 1
 
 #### Sprint Backlog 1 Web Application
@@ -249,6 +172,6 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTU2ODQ3MiwyMDk3OTQyOTg1LC04Nz
-U0Mjc0OTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMD
+k3OTQyOTg1LC04NzU0Mjc0OTJdfQ==
 -->
