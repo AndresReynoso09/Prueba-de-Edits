@@ -165,11 +165,11 @@ Para el sprint 1, solo se construyo la matriz de pruebas.
 
 #### 7.2.1.5. Execution Evidence for Sprint Review
 
-#### Sprint Backlog 1 Execution Evidence Consumer
+#### Sprint Backlog 1 Execution Evidence Web Application
 
 Execution
 
-#### Sprint Backlog 1 Execution Evidence Business
+#### Sprint Backlog 1 Execution Evidence Mobile Application
 
 Execution
 
@@ -209,11 +209,11 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review
 
-#### Sprint Backlog 1 Deployment Evidence Consumer
+#### Sprint Backlog 1 Deployment Evidence Web Application
 
 Documentation
 
-#### Sprint Backlog 1 Deployment Evidence Business
+#### Sprint Backlog 1 Deployment Evidence Mobile Application
 
 Documentation
 
@@ -249,6 +249,6 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM2NTYxNTgsMjA5Nzk0Mjk4NSwtOD
-c1NDI3NDkyXX0=
+eyJoaXN0b3J5IjpbMjA5OTU2ODQ3MiwyMDk3OTQyOTg1LC04Nz
+U0Mjc0OTJdfQ==
 -->
