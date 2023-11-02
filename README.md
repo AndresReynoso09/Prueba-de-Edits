@@ -4,7 +4,15 @@
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| | | | | | | | |
+|US01 | Registro de Consumidor|Como consumidor quiero crear una cuenta para acceder a la aplicación. | | | | | |
+|US01 | | | | | | | |
+|US01 | | | | | | | |
+|US01 | | | | | | | |
+|US01 | | | | | | | |
+|US01 | | | | | | | |
+|US01 | | | | | | | |
+|US01 | | | | | | | |
+|US01 | | | | | | | |
 
 #### Sprint Backlog 1 Mobile Application
 
@@ -172,6 +180,6 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMD
-k3OTQyOTg1LC04NzU0Mjc0OTJdfQ==
+eyJoaXN0b3J5IjpbMTc3OTUyOTQ4MSwtMTYxNDEzMDYzMiwyMD
+k5NTY4NDcyLDIwOTc5NDI5ODUsLTg3NTQyNzQ5Ml19
 -->
