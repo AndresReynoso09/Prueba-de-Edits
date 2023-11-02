@@ -12,7 +12,7 @@ Mobile mock-ups(https://www.figma.com/file/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?ty
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/e9ac55f9-06c0-4183-b602-27683fb3cf3a?width=1198&height=369)
 
-Mobile Web Applications
+Mobile Web Applications: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wireframes-TastyPoint?type=design&node-id=34-2&mode=design&t=KtxNjkLC11IMyY4J-0
 
 ### 6.4.4. Applications User Flow Diagrams
 
@@ -267,5 +267,5 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTgzNDU1M119
+eyJoaXN0b3J5IjpbLTEzNTkwNjQ0MDldfQ==
 -->
