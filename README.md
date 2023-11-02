@@ -257,6 +257,11 @@ Deployment
 | Lugar | Remote - Discord |
 | Asistentes | Todo el equipo |
 | Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 80% de lo comprometido |
+
+## 7.3. Validation Interviews
+
+### 7.3.1. Registro de Entrevistas
+### 7.3.2. Evaluaciones segun Heuristicas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTEzODYzOF19
+eyJoaXN0b3J5IjpbMTE5NzE2MzkyM119
 -->
