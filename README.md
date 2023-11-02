@@ -1,10 +1,10 @@
 #### 7.2.1.2. Sprint Backlog 1
 
-#### Sprint Backlog 1 Web Application
+#### Sprint Backlog 1 Consumer
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-|US01 | Registro de Consumidor|Como consumidor quiero crear una cuenta para acceder a la aplicación. | | | | | |
+|US01 | Registro de Consumidor|Como consumidor quiero crear una cuenta para acceder a la aplicación. | CA1: Dado que el consumidor se encuentra en la ventana de registro y completa todos los campos. Cuando presiona el botón registrarse. Entonces podrá acceder a la aplicación. CA2: Dado que el consumidor se encuentra en la ventana de registro y no completa todos los campos obligatorios. Cuando presiona el botón registrarse. Entonces esos campos se marcan de rojo Y se muestra el mensaje: “Complete los campos obligatorios”. CA3: Dado que el consumidor se encuentra en la ventana de registro y completa erróneamente los campos. Cuando presiona el botón registrarse. Entonces se muestra el siguiente mensaje: “Complete los campos correctamente”. | E1: El consumidor quiere registrarse en la aplicación. E2: El consumidor no completa los campos obligatorios. E3: El consumidor intenta registrarse, pero no completa con datos correctos los campos obligatorios.| | | |
 |US01 | | | | | | | |
 |US01 | | | | | | | |
 |US01 | | | | | | | |
@@ -14,7 +14,7 @@
 |US01 | | | | | | | |
 |US01 | | | | | | | |
 
-#### Sprint Backlog 1 Mobile Application
+#### Sprint Backlog 1 Business
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -180,6 +180,6 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTUyOTQ4MSwtMTYxNDEzMDYzMiwyMD
+eyJoaXN0b3J5IjpbMTg2NDExMTAwNiwtMTYxNDEzMDYzMiwyMD
 k5NTY4NDcyLDIwOTc5NDI5ODUsLTg3NTQyNzQ5Ml19
 -->
