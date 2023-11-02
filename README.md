@@ -262,6 +262,8 @@ Deployment
 
 ### 7.3.1. Registro de Entrevistas
 ### 7.3.2. Evaluaciones segun Heuristicas
+
+## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzE2MzkyM119
+eyJoaXN0b3J5IjpbLTE5NDIxMTIyNDRdfQ==
 -->
