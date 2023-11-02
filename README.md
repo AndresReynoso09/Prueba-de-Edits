@@ -107,12 +107,12 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 |TastyPoint-FrontEnd-Web-Application |0379cc63d954d4fa82a0dd7381dcfd2a569f552a |Added Layout Segment |Andres Reynoso |
 |TastyPoint-FrontEnd-Web-Application |2542129dcb4ff17f51db920d04c20e35c42b2224 |Added Layout |Andres Reynoso |
 |TastyPoint-FrontEnd-Web-Application |696ce9bb78812e9521b8e084e503ac532542eef5 |Added Orders component |Andres Reynoso |
-|TastyPoint-FrontEnd-Web-Application |69a58e3e6e8c1d938b34d077c80e40d3e597f091 |Add |Andres Reynoso |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
-|TastyPoint-FrontEnd-Web-Application | | | |
+|TastyPoint-FrontEnd-Web-Application |69a58e3e6e8c1d938b34d077c80e40d3e597f091 |Added Profile |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |38f092cc28157843bf12b4966efafc3f135db803 |added security |Claudia Rozas |
+|TastyPoint-FrontEnd-Web-Application |73842ea48ff9220629ef0462928c4ba10524c765 |added selling |Claudia Rozas |
+|TastyPoint-FrontEnd-Web-Application |2e21e5ed70651353dc83ca0daa3262e9b951ab87 |Added Publishing |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |4d53fb3046adf4e08ad4bfe3ad35bfc25c72223b | | |
+|TastyPoint-FrontEnd-Web-Application |885b8946b84a9c25a23d421dff403563e76d2323 | | |
 |TastyPoint-FrontEnd-Web-Application | | | |
 |TastyPoint-FrontEnd-Web-Application | | | |
 |TastyPoint-FrontEnd-Web-Application | | | |
@@ -249,6 +249,6 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzY5MTE5OSwyMDk3OTQyOTg1LC04Nz
-U0Mjc0OTJdfQ==
+eyJoaXN0b3J5IjpbLTE1MjQ2NzgyODQsMjA5Nzk0Mjk4NSwtOD
+c1NDI3NDkyXX0=
 -->
