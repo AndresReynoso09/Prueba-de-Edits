@@ -59,7 +59,7 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 | Proyecto                  | [Github](https://github.com)         |
 | Landing Page              | [Azure](https://azure.microsoft.com) |
 | Aplicacion Web - Frontend |[Netlify](https://netlify.com) |
-| Aplicacion Web - Backtend | |
+| Aplicacion Web - Backtend |[Azure](https://azure.microsoft.com) |
 | Aplicacion VR | [Unity](https://unity.com/) |
 
 ## 7.2. Solution Implementation
@@ -77,13 +77,13 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 
 #### 7.2.1.2. Sprint Backlog 1
 
-#### Sprint Backlog 1 Consumer
+#### Sprint Backlog 1 Web Application
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | | | | | | | | |
 
-#### Sprint Backlog 1 Business
+#### Sprint Backlog 1 Mobile Application
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -99,13 +99,13 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 
 #### 7.2.1.3. Development Evidence for Sprint Review
 
-#### Sprint Backlog 1 Development Evidence Consumer
+#### Sprint Backlog 1 Development Evidence Web Application
 
 | Repositorio | Commit | Mensaje | Autor |
 |-------------|-------------|-------------|-------------|
 | | | | |
 
-#### Sprint Backlog 1 Development Evidence Business
+#### Sprint Backlog 1 Development Evidence Mobile Application
 
 | Repositorio | Commit | Mensaje | Autor |
 |-------------|-------------|-------------|-------------|
@@ -234,6 +234,6 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTI1NDY5LDIwOTc5NDI5ODUsLTg3NT
-QyNzQ5Ml19
+eyJoaXN0b3J5IjpbOTMwNjkwMTgsMjA5Nzk0Mjk4NSwtODc1ND
+I3NDkyXX0=
 -->
