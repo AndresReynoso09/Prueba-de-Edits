@@ -1,44 +1,3 @@
-### 6.4.3. Applications Mock-ups
-
-Mobile mock-ups(https://www.figma.com/file/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?type=design&node-id=0%3A1&mode=design&t=kSFT1kq185livZVs-1):
-
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/7b3e9571-e40b-4807-8175-6444cae3b9c0?width=1198&height=669)
-
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/c3090125-b4dd-4254-9c2c-6b974f188bb2?width=1198&height=669)
-
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/34f13a78-dfd0-49a0-a5c0-55c46dd34112?width=1198&height=669)
-
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/7f8814aa-3856-4f49-b008-006d55477076?width=1198&height=669)
-
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/e9ac55f9-06c0-4183-b602-27683fb3cf3a?width=1198&height=369)
-
-Desktop Web Applications: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wireframes-TastyPoint?type=design&node-id=34-2&mode=design&t=KtxNjkLC11IMyY4J-0
-![image](https://media.discordapp.net/attachments/973358848159133696/1169776180254224414/image.png?ex=6556a1f6&is=65442cf6&hm=e03618d87a1de83eb1a138aae137d89bead3abe4fb04c8e5a94429dc823c3319&=&width=1056&height=669)
-![image](https://media.discordapp.net/attachments/973358848159133696/1169776876064084008/image.png?ex=6556a29c&is=65442d9c&hm=47b685635dd6d8ec3a8d138f48666692da85b71a85e5dc36a63c520a96aa2160&=&width=1348&height=605)
-![image](https://media.discordapp.net/attachments/973358848159133696/1169776947472113785/image.png?ex=6556a2ad&is=65442dad&hm=005734141baeb9aa4bfa84ff0a7a0373a8e82ee0ab15bf73641097adcbd762b2&=&width=1327&height=617)
-![image](https://media.discordapp.net/attachments/973358848159133696/1169777012647407716/image.png?ex=6556a2bd&is=65442dbd&hm=456b725ff48888a245150000d4c70fff4fd45ffbf26afdb8ff9bfb9cd641a3f9&=&width=1375&height=614)
-![image](https://media.discordapp.net/attachments/973358848159133696/1169777071715795005/image.png?ex=6556a2cb&is=65442dcb&hm=113405fe1596edeb6774c9450baab29833c81b1abbbf6481fc3cd02b29823a7c&=&width=1085&height=669)
-![image](https://media.discordapp.net/attachments/973358848159133696/1169777164019834910/image.png?ex=6556a2e1&is=65442de1&hm=097eeeb9c9c494abbd8ad9603ce0b72d1297bdce049d14d97690e9bcfb7dee86&=&width=978&height=669)
-![image](https://media.discordapp.net/attachments/973358848159133696/1169777242654658631/image.png?ex=6556a2f4&is=65442df4&hm=0ba0d200c3d45188ee51b290392d631b4b235f9a6da860b4084bdf66180df77b&=&width=1380&height=630)
-
-
-### 6.4.4. Applications User Flow Diagrams
-
-Mobile user flow diagrams(https://www.figma.com/file/hXXW0qrVtjezWIP9ub7pt4/Untitled?type=whiteboard&node-id=0%3A1&t=0nx6v5IW0oYnPtDf-1):
-
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/2f7f877d-81b4-459e-9f67-3e70027be8c4?width=1198&height=680)
-
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/14fb4182-6df4-4e98-9fe8-e4b32736df60?width=1198&height=680)
-
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/686cb75a-ac02-4a7a-bf60-f7d418162d45?width=1198&height=680)
-
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/b68f7f64-a6eb-458f-8ae6-a16c294e433f?width=1198&height=680)
-
-## 6.5. Applications Prototyping
-
-Link del prototipo: https://www.figma.com/proto/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?type=design&node-id=501-2&t=tpCLr4biP864FRLh-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=501%3A2&mode=design
-
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/3b74fc8d-a6ee-4456-a95b-40d871ac668f?width=1198&height=369)
 
 ## Capítulo VII: Product Implementation, Validation & Deployment
 
@@ -83,8 +42,8 @@ Par nuestro control de versiones usaremos [Git](https://git-scm.com/). Asimismo,
 |---------------------------|-------------------------------------|--------|
 | Proyecto                  | Project-Report                      | [Repositorio](https://github.com/Arquitectura-Software-2023/Project-Report) |
 | Landing Page              | TastyPoint-landing-page             | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-landing-page) |
-| Aplicacion Web - Frontend | TastyPoint-FrontEnd-Web-Application | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-FrontEnd-Web-Application)b |
-| Aplicacion Web - Backtend | Web-Services-TastyPoint             | [Repositorio](https://github.com/Arquitectura-Software-2023/Web-Services-TastyPoint) |
+| Aplicacion Web - Frontend | TastyPoint-FrontEnd-Web-Application | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-FrontEnd-Web-Application) |
+| Aplicacion Web - Backend | Web-Services-TastyPoint             | [Repositorio](https://github.com/Arquitectura-Software-2023/Web-Services-TastyPoint) |
 | Aplicacion VR |              |  |
 
 ### 7.1.3. Source Code Style Guide & Conventions
@@ -99,7 +58,7 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 |---------------------------|--------------------------------------|
 | Proyecto                  | [Github](https://github.com)         |
 | Landing Page              | [Azure](https://azure.microsoft.com) |
-| Aplicacion Web - Frontend | |
+| Aplicacion Web - Frontend |[Netlify](https://netlify.com) |
 | Aplicacion Web - Backtend | |
 | Aplicacion VR | [Unity](https://unity.com/) |
 
@@ -275,5 +234,6 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
+eyJoaXN0b3J5IjpbMTI5NTI1NDY5LDIwOTc5NDI5ODUsLTg3NT
+QyNzQ5Ml19
 -->
