@@ -3,9 +3,9 @@
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
 | T8 | US11 | | | El usuario deberia crearse su cuenta | Andres Reynoso | Done |
-| T9 | US15 | | | | Andres Reynoso | In Progress |
-| T10 | US17 | | | | Claudia Rozas | In Progress |
-| T11  | US18 | | | | Claudia Rozas | In Progress |
+| T9 | US15 | | | El usuario agrega sus redes sociales | Andres Reynoso | In Progress |
+| T10 | US17 | | | El usuario ingresa al registro de pedidos | Claudia Rozas | In Progress |
+| T11  | US18 | | | El usuario ve el catalogo de platos | Claudia Rozas | In Progress |
 | T12  | US19 | | | | Andres Reynoso | Done |
 | T13  | US22 | | | | Andres Reynoso | In Progress |
 
@@ -95,8 +95,8 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Nzk5MTE4OCw2ODEyMDA1NjksMTUwNj
-Q0NTY0NiwtMTIxOTc3MDg2NywtMjAxMjI2MzU0MiwyNjA4OTcy
-NDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLDIwOTk1Njg0NzIsMj
-A5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
+eyJoaXN0b3J5IjpbNzQzOTc2NzEsLTc4Nzk5MTE4OCw2ODEyMD
+A1NjksMTUwNjQ0NTY0NiwtMTIxOTc3MDg2NywtMjAxMjI2MzU0
+MiwyNjA4OTcyNDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLDIwOT
+k1Njg0NzIsMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
 -->
