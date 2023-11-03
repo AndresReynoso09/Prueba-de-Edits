@@ -43,13 +43,13 @@
 | D31 | US18 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Catalogue | Claudia Rozas | 02/11/2023 | Done |
 | D32 | US19 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Consumer View | Claudia Rozas  | 02/11/2023 | Done |
 | D33 | US22 | Diseño de Interfaz | Documento con los mockups y diseños de la sección del perfil de restaurante | Claudia Rozas | 02/11/2023 | Done |
-| D34 | US01 | Manual de Usuario | Documento que guía al usuario en cómo utilizar el Sign In | Claudia Rozas | 31/10/2023 | Pendiente |
-| D35 | US02 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección Settings | Andres Reynoso | 01/11/2023 | Pendiente |
-| D36 | US03 | Manual de Usuario | Documento que guía al usuario en cómo utilizar el Sign Out | Claudia Rozas | 31/10/2023 | Pendiente |
-| D37 | US05 | Manual de Usuario | Documento que guía al usuario en cómo ver la sección Notifications | Claudia Rozas |  31/10/2023 | Pendiente |
-| D28 | US06 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección Favorites | Andres Reynoso | 31/10/2023 | Pendiente |
-| D39 | US07 | Manual de Usuario | Documento que guía al usuario en cómo ver la sección List | Claudia Rozas | 31/10/2023 | Pendiente |
-| D40 | US09 | Manual de Usuario | Documento que guía al usuario en cómo realizar un comentario | Andres Reynoso | 31/10/2023 | Pendiente |
+| D34 | US11 | Manual de Usuario | Documento que guía al usuario en cómo utilizar el Sign In | Claudia Rozas | 31/10/2023 | Pendiente |
+| D35 | US15 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección Settings | Andres Reynoso | 01/11/2023 | Pendiente |
+| D36 | US17 | Manual de Usuario | Documento que guía al usuario en cómo utilizar Orders | Claudia Rozas | 31/10/2023 | Pendiente |
+| D37 | US05 | Manual de Usuario | Documento que guía al usuario en cómo ver la sección Catalogue | Claudia Rozas |  31/10/2023 | Pendiente |
+| D28 | US18 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección Consumer View | Andres Reynoso | 31/10/2023 | Pendiente |
+| D39 | US19 | Manual de Usuario | Documento que guía al usuario en cómo ver la sección List | Claudia Rozas | 31/10/2023 | Pendiente |
+| D40 | US22 | Manual de Usuario | Documento que guía al usuario en cómo ver el perfil de restaurante | Andres Reynoso | 31/10/2023 | Pendiente |
 
 #### Sprint Backlog 1 Documentation Evidence Landing Page
 
@@ -72,9 +72,10 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA2NjU4MjgsLTY5NTQzNTAzNSwtMT
-UzNjg0MzE1MywtMTA0NDc2OTcyMywtNzg3OTkxMTg4LDY4MTIw
-MDU2OSwxNTA2NDQ1NjQ2LC0xMjE5NzcwODY3LC0yMDEyMjYzNT
-QyLDI2MDg5NzI0Miw5NTAwMjk4OTAsLTE2MTQxMzA2MzIsMjA5
-OTU2ODQ3MiwyMDk3OTQyOTg1LC04NzU0Mjc0OTJdfQ==
+eyJoaXN0b3J5IjpbLTE0NjE2NDc5ODIsLTE1MTA2NjU4MjgsLT
+Y5NTQzNTAzNSwtMTUzNjg0MzE1MywtMTA0NDc2OTcyMywtNzg3
+OTkxMTg4LDY4MTIwMDU2OSwxNTA2NDQ1NjQ2LC0xMjE5NzcwOD
+Y3LC0yMDEyMjYzNTQyLDI2MDg5NzI0Miw5NTAwMjk4OTAsLTE2
+MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMDk3OTQyOTg1LC04NzU0Mj
+c0OTJdfQ==
 -->
