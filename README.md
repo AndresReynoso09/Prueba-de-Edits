@@ -4,27 +4,27 @@
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
 |-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|
-| D1 | US01 | Especificación de Requisitos |  |  | | |
-| D2 | US02 | Especificación de Requisitos |  |  | | |
-| D3 | US03 | Especificación de Requisitos |  |  | | |
-| D4 | US05 | Especificación de Requisitos |  |  | | |
-| D5 | US06 | Especificación de Requisitos |  |  | | |
-| D6 | US07 | Especificación de Requisitos |  |  | | |
-| D7 | US09 | Especificación de Requisitos |  |  | | |
-| D1 | US01 | Diseño de Interfaz | Documento con los mockups y diseños de la sección |  | | |
+| D1 | US01 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign In|  | | |
+| D2 | US02 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección |  | | |
+| D3 | US03 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección |  | | |
+| D4 | US05 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección |  | | |
+| D5 | US06 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección |  | | |
+| D6 | US07 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección |  | | |
+| D7 | US09 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección |  | | |
+| D1 | US01 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign In |  | | |
 | D2 | US02 | Diseño de Interfaz | Documento con los mockups y diseños de la sección  |  | | |
 | D3 | US03 | Diseño de Interfaz | Documento con los mockups y diseños de la sección  |  | | |
 | D4 | US05 | Diseño de Interfaz | Documento con los mockups y diseños de la sección  |  | | |
 | D5 | US06 | Diseño de Interfaz | Documento con los mockups y diseños de la sección |  | | |
 | D6 | US07 | Diseño de Interfaz | Documento con los mockups y diseños de la sección  |  | | |
 | D7 | US09 | Diseño de Interfaz | Documento con los mockups y diseños de la sección |  | | |
-| D1 | US01 | Manual de Usuario |  |  | | |
-| D2 | US02 | Manual de Usuario |  |  | | |
-| D3 | US03 | Manual de Usuario |  |  | | |
-| D4 | US05 | Manual de Usuario |  |  | | |
-| D5 | US06 | Manual de Usuario |  |  | | |
-| D6 | US07 | Manual de Usuario |  |  | | |
-| D7 | US09 | Manual de Usuario |  |  | | |
+| D1 | US01 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección Sign In |  | | |
+| D2 | US02 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección |  | | |
+| D3 | US03 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección |  | | |
+| D4 | US05 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección |  | | |
+| D5 | US06 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección |  | | |
+| D6 | US07 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección |  | | |
+| D7 | US09 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección |  | | |
 
 #### Sprint Backlog 1 Documentation Evidence Business
 
@@ -58,9 +58,9 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjUyNzM0NSwtMTUzNjg0MzE1MywtMT
-A0NDc2OTcyMywtNzg3OTkxMTg4LDY4MTIwMDU2OSwxNTA2NDQ1
-NjQ2LC0xMjE5NzcwODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0Mi
-w5NTAwMjk4OTAsLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMDk3
-OTQyOTg1LC04NzU0Mjc0OTJdfQ==
+eyJoaXN0b3J5IjpbNzEwOTUxOTQxLC0xNTM2ODQzMTUzLC0xMD
+Q0NzY5NzIzLC03ODc5OTExODgsNjgxMjAwNTY5LDE1MDY0NDU2
+NDYsLTEyMTk3NzA4NjcsLTIwMTIyNjM1NDIsMjYwODk3MjQyLD
+k1MDAyOTg5MCwtMTYxNDEzMDYzMiwyMDk5NTY4NDcyLDIwOTc5
+NDI5ODUsLTg3NTQyNzQ5Ml19
 -->
