@@ -1,18 +1,3 @@
-
-#### 7.2.1.5. Execution Evidence for Sprint Review
-
-#### Sprint Backlog 1 Execution Evidence Web Application
-
-Execution
-
-#### Sprint Backlog 1 Execution Evidence Mobile Application
-
-Execution
-
-#### Sprint Backlog 1 Execution Evidence Landing Page
-
-![Landing Execution](Images/sprint-1-landing-execution-1.png)
-
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review
 
 #### Sprint Backlog 1 Documentation Evidence Consumer
@@ -78,6 +63,8 @@ Deployment
 | Asistentes | Todo el equipo |
 | Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 80% de lo comprometido |
 
+
+
 ## 7.3. Validation Interviews
 
 ### 7.3.1. Registro de Entrevistas
@@ -85,8 +72,9 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ3Njk3MjMsLTc4Nzk5MTE4OCw2OD
-EyMDA1NjksMTUwNjQ0NTY0NiwtMTIxOTc3MDg2NywtMjAxMjI2
-MzU0MiwyNjA4OTcyNDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLD
-IwOTk1Njg0NzIsMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
+eyJoaXN0b3J5IjpbMTQ3MjI5OTcxLC0xMDQ0NzY5NzIzLC03OD
+c5OTExODgsNjgxMjAwNTY5LDE1MDY0NDU2NDYsLTEyMTk3NzA4
+NjcsLTIwMTIyNjM1NDIsMjYwODk3MjQyLDk1MDAyOTg5MCwtMT
+YxNDEzMDYzMiwyMDk5NTY4NDcyLDIwOTc5NDI5ODUsLTg3NTQy
+NzQ5Ml19
 -->
