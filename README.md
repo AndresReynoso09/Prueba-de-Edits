@@ -2,12 +2,12 @@
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| T8 | | | | | | |
-| T9 | | | | | | |
-| T10 | | | | | | |
-| T11  | | | | | | |
-| T12  | | | | | | |
-| T13  | | | | | | |
+| T8 | US11 | | | | | |
+| T9 | US15 | | | | | |
+| T10 | US17 | | | | | |
+| T11  | US18 | | | | | |
+| T12  | US19 | | | | | |
+| T13  | US22 | | | | | |
 
 #### 7.2.1.5. Execution Evidence for Sprint Review
 
@@ -95,8 +95,8 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ0NjA1MDUsNjgxMjAwNTY5LDE1MD
-Y0NDU2NDYsLTEyMTk3NzA4NjcsLTIwMTIyNjM1NDIsMjYwODk3
-MjQyLDk1MDAyOTg5MCwtMTYxNDEzMDYzMiwyMDk5NTY4NDcyLD
-IwOTc5NDI5ODUsLTg3NTQyNzQ5Ml19
+eyJoaXN0b3J5IjpbMzI1MzEyODM4LDY4MTIwMDU2OSwxNTA2ND
+Q1NjQ2LC0xMjE5NzcwODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0
+Miw5NTAwMjk4OTAsLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMD
+k3OTQyOTg1LC04NzU0Mjc0OTJdfQ==
 -->
