@@ -32,8 +32,12 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 #### Sprint Backlog 1 Deployment Evidence Web Application
 
-Para desarrollar el deployment del Web Application, se ha usado Netlify
+Para desarrollar el deployment del Web Application, se ha usado Netlify, debido a su facilidad de uso. Para el despliegue simplemente se vinculo el repositorio de GitHub con el programa y automaticamente te deja el enlace. 
+
+Debido a que se uso el fake API en este sprint, se tendra que despleagar el json de forma local.
 ![image](https://media.discordapp.net/attachments/973358848159133696/1169813031270748240/image.png?ex=6556c448&is=65444f48&hm=ce252caace8fe53d2333b3e00bb0aeb970d8c79b0514f47a96113bfba94f9515&=&width=1190&height=669)
+
+A continuacion podemos observar que la aplicacion se ejecuta
 
 #### 7.2.1.8. Team Collaboration Insights during Sprint
 
@@ -56,9 +60,9 @@ Para desarrollar el deployment del Web Application, se ha usado Netlify
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDA2NzE1NCwtMTA0NDc2OTcyMywtNz
-g3OTkxMTg4LDY4MTIwMDU2OSwxNTA2NDQ1NjQ2LC0xMjE5Nzcw
-ODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0Miw5NTAwMjk4OTAsLT
-E2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMDk3OTQyOTg1LC04NzU0
-Mjc0OTJdfQ==
+eyJoaXN0b3J5IjpbMTE3MjI2MDExLC0xMDQ0NzY5NzIzLC03OD
+c5OTExODgsNjgxMjAwNTY5LDE1MDY0NDU2NDYsLTEyMTk3NzA4
+NjcsLTIwMTIyNjM1NDIsMjYwODk3MjQyLDk1MDAyOTg5MCwtMT
+YxNDEzMDYzMiwyMDk5NTY4NDcyLDIwOTc5NDI5ODUsLTg3NTQy
+NzQ5Ml19
 -->
