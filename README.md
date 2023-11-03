@@ -39,8 +39,8 @@
 | D27 | US22 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección del perfil de restaurante | Andres Reynoso | 31/10/2023 | Pendiente |
 | D28 | US01 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign In | Claudia Rozas | 02/11/2023 | Done |
 | D29 | US02 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Settings | Andres Reynoso | 02/11/2023 | Done |
-| D30 | US03 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign Out  | Claudia Rozas | 02/11/2023 | Done |
-| D31 | US05 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Notifications | Claudia Rozas | 02/11/2023 | Done |
+| D30 | US03 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Orders  | Claudia Rozas | 02/11/2023 | Done |
+| D31 | US05 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Catalogue | Claudia Rozas | 02/11/2023 | Done |
 | D32 | US06 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Favorites | Andres Reynoso  | 02/11/2023 | Done |
 | D33 | US07 | Diseño de Interfaz | Documento con los mockups y diseños de la sección List | Claudia Rozas | 02/11/2023 | Done |
 
@@ -73,9 +73,9 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzA0Mjc1LC02OTU0MzUwMzUsLTE1Mz
-Y4NDMxNTMsLTEwNDQ3Njk3MjMsLTc4Nzk5MTE4OCw2ODEyMDA1
-NjksMTUwNjQ0NTY0NiwtMTIxOTc3MDg2NywtMjAxMjI2MzU0Mi
-wyNjA4OTcyNDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLDIwOTk1
-Njg0NzIsMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
+eyJoaXN0b3J5IjpbMTQ5MzU5MTk4NiwtNjk1NDM1MDM1LC0xNT
+M2ODQzMTUzLC0xMDQ0NzY5NzIzLC03ODc5OTExODgsNjgxMjAw
+NTY5LDE1MDY0NDU2NDYsLTEyMTk3NzA4NjcsLTIwMTIyNjM1ND
+IsMjYwODk3MjQyLDk1MDAyOTg5MCwtMTYxNDEzMDYzMiwyMDk5
+NTY4NDcyLDIwOTc5NDI5ODUsLTg3NTQyNzQ5Ml19
 -->
