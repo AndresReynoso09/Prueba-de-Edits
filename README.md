@@ -4,12 +4,12 @@
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
 |-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|
-| D1 | US01 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign In| Claudia Rozas | |Pendiente |
-| D2 | US02 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Settings| Andres Reynoso | |Pendiente |
-| D3 | US03 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign Out| Claudia Rozas | |Pendiente |
-| D4 | US05 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Notifications | Claudia Rozas | |Pendiente |
+| D1 | US01 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign In| Claudia Rozas |31/10/2023 |Pendiente |
+| D2 | US02 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Settings| Andres Reynoso |31/10/2023 |Pendiente |
+| D3 | US03 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign Out| Claudia Rozas |31/10/2023 |Pendiente |
+| D4 | US05 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Notifications | Claudia Rozas |31/10/2023 |Pendiente |
 | D5 | US06 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Favorites | Andres Reynoso | 31/10/2023 | Pendiente |
-| D6 | US07 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección List | Claudia Rozas | | Pendiente |
+| D6 | US07 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección List | Claudia Rozas | 31/10/2023 | Pendiente |
 | D7 | US09 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección de comentarios  | Andres Reynoso | | Pendiente |
 | D1 | US01 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign In | Claudia Rozas | 02/11/2023 | Done |
 | D2 | US02 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Settings | Andres Reynoso | 02/11/2023 | Done |
@@ -58,9 +58,9 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTIwNzAzMCwtNjk1NDM1MDM1LC0xNT
-M2ODQzMTUzLC0xMDQ0NzY5NzIzLC03ODc5OTExODgsNjgxMjAw
-NTY5LDE1MDY0NDU2NDYsLTEyMTk3NzA4NjcsLTIwMTIyNjM1ND
-IsMjYwODk3MjQyLDk1MDAyOTg5MCwtMTYxNDEzMDYzMiwyMDk5
-NTY4NDcyLDIwOTc5NDI5ODUsLTg3NTQyNzQ5Ml19
+eyJoaXN0b3J5IjpbLTIwNzg2NzU0LC02OTU0MzUwMzUsLTE1Mz
+Y4NDMxNTMsLTEwNDQ3Njk3MjMsLTc4Nzk5MTE4OCw2ODEyMDA1
+NjksMTUwNjQ0NTY0NiwtMTIxOTc3MDg2NywtMjAxMjI2MzU0Mi
+wyNjA4OTcyNDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLDIwOTk1
+Njg0NzIsMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
 -->
