@@ -34,18 +34,6 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 Documentation
 
-#### Sprint Backlog 1 Deployment Evidence Mobile Application
-
-Documentation
-
-#### Sprint Backlog 1 Deployment Evidence Landing Page
-
-Se implemento el pipeline de despliegue continuo con azure. Acontinuacion, se adjunta la evidencia del despliegue del landing page: [Url](https://jolly-field-04c7e7710.4.azurestaticapps.net/)
-
-Deployment
-![Github Action detail](Images/sprint-1-landing-deployment-1.png)
-![Azure portal](Images/sprint-1-landing-deployment-2.png)
-![Deployed landing page](Images/sprint-1-landing-deployment-3.png)
 
 #### 7.2.1.8. Team Collaboration Insights during Sprint
 
@@ -65,40 +53,10 @@ Deployment
 
 
 
-## 7.3. Validation Interviews
-
-### 7.3.1. Diseño de Entrevistas.
-
-**Consumidor:**
-
-Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de Software de la UPC. Gracias por acceder a la entrevista, y antes de comenzar con las preguntas, realizaré una breve introducción a nuestro proyecto. Este tiene por nombre Tasty Point y se basa en la distribución de los productos que los establecimientos alimenticios, no llegan a vender durante su jornada. Usted como consumidor, podrá comprar estos productos a través de nuestra aplicación a un menor precio, pero agrupados en paquetes, en la cual se encontrarán los productos de cierto restaurante específico. Dicho esto, comencemos con las validaciones.
-
-	1. ¿Cuál es su nombre completo?
-
-	2. ¿Cuántos años tiene?
-
-	3. Preguntas relacionadas a las funcionalidades de la aplicación, y basadas en las historias de usuario relacionadas al consumidor.
-
-	4. ¿Tiene alguna recomendación con respecto a nuestra aplicación?
-
-**Representante de negocio:**
-
-Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de Software de la UPC. Gracias por acceder a la entrevista, y antes de comenzar con las preguntas, realizaré una breve introducción a nuestro proyecto. Este tiene por nombre Tasty Point y se basa en la distribución de los productos que los establecimientos alimenticios, no llegan a vender durante su jornada.Por lo que pueden estos establecimientos generar ganancias adicionales con los alimentos que ya habian sido considerado perdidas, asimismo, ayudar a cuidar el planeta disminuyendo el desperdicio de alimentos. Dicho esto, comencemos con las validaciones.
-
-	1. ¿Cuál es su nombre completo?
-
-	2. ¿Cuántos años tiene?
-
-	3. Preguntas relacionadas a las funcionalidades de la aplicación, y basadas en las historias de usuario relacionadas al cliente.
-
-	4. ¿Tiene alguna recomendación con respecto a nuestra aplicación?
-
-### 7.3.2. Registro de Entrevistas
-### 7.3.3. Evaluaciones segun Heuristicas
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTIzNzcxMywtMTA0NDc2OTcyMywtNz
+eyJoaXN0b3J5IjpbMTE4NTk3OTM2MCwtMTA0NDc2OTcyMywtNz
 g3OTkxMTg4LDY4MTIwMDU2OSwxNTA2NDQ1NjQ2LC0xMjE5Nzcw
 ODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0Miw5NTAwMjk4OTAsLT
 E2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMDk3OTQyOTg1LC04NzU0
