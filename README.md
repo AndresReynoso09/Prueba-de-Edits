@@ -2,12 +2,12 @@
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| T8 | US11 | | | | | |
-| T9 | US15 | | | | | |
-| T10 | US17 | | | | | |
-| T11  | US18 | | | | | |
-| T12  | US19 | | | | | |
-| T13  | US22 | | | | | |
+| T8 | US11 | | | | Andres Reynoso | Done |
+| T9 | US15 | | | | Andres Reynoso | In Progress |
+| T10 | US17 | | | | Claudia Rozas | In Progress |
+| T11  | US18 | | | | Claudia Rozas | In Progress |
+| T12  | US19 | | | | Andres Reynoso | Done |
+| T13  | US22 | | | | Andres Reynoso | In Progress |
 
 #### 7.2.1.5. Execution Evidence for Sprint Review
 
@@ -95,8 +95,8 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MzEyODM4LDY4MTIwMDU2OSwxNTA2ND
-Q1NjQ2LC0xMjE5NzcwODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0
-Miw5NTAwMjk4OTAsLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMD
-k3OTQyOTg1LC04NzU0Mjc0OTJdfQ==
+eyJoaXN0b3J5IjpbMTgwMzc5MzA4OCw2ODEyMDA1NjksMTUwNj
+Q0NTY0NiwtMTIxOTc3MDg2NywtMjAxMjI2MzU0MiwyNjA4OTcy
+NDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLDIwOTk1Njg0NzIsMj
+A5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
 -->
