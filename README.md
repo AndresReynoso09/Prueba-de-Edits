@@ -2,7 +2,7 @@
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| T8 | US11 | | | | Andres Reynoso | Done |
+| T8 | US11 | | | El usuario deberia crearse su cuenta | Andres Reynoso | Done |
 | T9 | US15 | | | | Andres Reynoso | In Progress |
 | T10 | US17 | | | | Claudia Rozas | In Progress |
 | T11  | US18 | | | | Claudia Rozas | In Progress |
@@ -95,7 +95,7 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzc5MzA4OCw2ODEyMDA1NjksMTUwNj
+eyJoaXN0b3J5IjpbLTc4Nzk5MTE4OCw2ODEyMDA1NjksMTUwNj
 Q0NTY0NiwtMTIxOTc3MDg2NywtMjAxMjI2MzU0MiwyNjA4OTcy
 NDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLDIwOTk1Njg0NzIsMj
 A5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
