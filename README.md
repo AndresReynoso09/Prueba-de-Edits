@@ -1,22 +1,13 @@
-#### 7.2.1.4. Testing Suite Evidence for Sprint Review
-
-
-
 #### Sprint Backlog 1 Testing Suite Evidence Business
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| | | | | | | |
-
-#### Sprint Backlog 1 Testing Suite Evidence Landing Page
-
-Para el sprint 1, solo se construyo la matriz de pruebas.
-
-| ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
-|--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| T1           | US27     | Verificar la visualización de la sección "home" en la landing page | 1. Navegar a la landing page<br>2. Hacer clic en la sección "home" o desplazarse hasta ella | El usuario debería ver una breve descripción de la aplicación e información de sus segmentos                          | Adrian Marquina         | Pendiente           |
-| T2           | US28     | Verificar la visualización de la sección "about us" en landing page | 1. Navegar a la landing page<br>2. Hacer clic en la sección "about us" o desplazarse hasta ella | El usuario debería ver la información sobre por qué TastyPoint es innovadora en el área de comida a domicilio         | Adrian Marquina         | Pendiente           |
-| T3           | US29     | Verificar la visualización de la sección "segments" en landing page | 1. Navegar a la landing page<br>2. Hacer clic en la sección "segments" o desplazarse hasta ella | El usuario debería ver información sobre el público objetivo de TastyPoint y las características de la aplicación     | Adrian Marquina         | Pendiente           |
+| T8 | | | | | | |
+| T9 | | | | | | |
+| T10 | | | | | | |
+| T11  | | | | | | |
+| T12  | | | | | | |
+| T13  | | | | | | |
 
 #### 7.2.1.5. Execution Evidence for Sprint Review
 
@@ -104,8 +95,8 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNzMxMTE2LDY4MTIwMDU2OSwxNTA2ND
-Q1NjQ2LC0xMjE5NzcwODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0
-Miw5NTAwMjk4OTAsLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMD
-k3OTQyOTg1LC04NzU0Mjc0OTJdfQ==
+eyJoaXN0b3J5IjpbLTEwMjQ0NjA1MDUsNjgxMjAwNTY5LDE1MD
+Y0NDU2NDYsLTEyMTk3NzA4NjcsLTIwMTIyNjM1NDIsMjYwODk3
+MjQyLDk1MDAyOTg5MCwtMTYxNDEzMDYzMiwyMDk5NTY4NDcyLD
+IwOTc5NDI5ODUsLTg3NTQyNzQ5Ml19
 -->
