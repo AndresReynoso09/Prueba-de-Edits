@@ -4,13 +4,13 @@
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| T1 | US01 |  | | | Andres Reynoso | Done |
-| T2 | US02 | | | | Andres Reynoso | In Progress |
-| T3 | US03 | | | | Claudia Rozas | |
-| T4 | US05 | | | | Andres Reynoso | |
-| T5 | US06 | | | | Claudia Rozas | |
-| T6 | US07 | | | | Claudia Rozas | |
-| T7 | US09 | | | | Claudia Rozas | |
+| T1 | US01 |  | | El usuario deberia de crearse una cuenta | Andres Reynoso | Done |
+| T2 | US02 | | | El usuario deberia de visualizar la seccion de modificar perfil | Andres Reynoso | In Progress |
+| T3 | US03 | | | | Claudia Rozas | In Progress |
+| T4 | US05 | | | | Andres Reynoso | Done |
+| T5 | US06 | | | | Claudia Rozas | In Progress |
+| T6 | US07 | | | | Claudia Rozas | In Progress |
+| T7 | US09 | | | | Claudia Rozas | In Progress |
 
 #### Sprint Backlog 1 Testing Suite Evidence Business
 
@@ -114,7 +114,7 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjI4ODcxOCwtMjAxMjI2MzU0MiwyNj
-A4OTcyNDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLDIwOTk1Njg0
-NzIsMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
+eyJoaXN0b3J5IjpbLTEyMTk3NzA4NjcsLTIwMTIyNjM1NDIsMj
+YwODk3MjQyLDk1MDAyOTg5MCwtMTYxNDEzMDYzMiwyMDk5NTY4
+NDcyLDIwOTc5NDI5ODUsLTg3NTQyNzQ5Ml19
 -->
