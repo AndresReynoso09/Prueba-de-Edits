@@ -6,9 +6,9 @@
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
 | T1 | US01 |  | | El usuario deberia de crearse una cuenta | Andres Reynoso | Done |
 | T2 | US02 | | | El usuario deberia de visualizar la seccion de modificar perfil | Andres Reynoso | In Progress |
-| T3 | US03 | | | | Claudia Rozas | In Progress |
-| T4 | US05 | | | | Andres Reynoso | Done |
-| T5 | US06 | | | | Claudia Rozas | In Progress |
+| T3 | US03 | | | El usuario deberia de poder cerrar sesion con normalidad | Claudia Rozas | In Progress |
+| T4 | US05 | | | El usuario deberia de ver las notificaciones | Andres Reynoso | Done |
+| T5 | US06 | | | El usuario deberia de tener la opcion de marcar como favoritos | Claudia Rozas | In Progress |
 | T6 | US07 | | | | Claudia Rozas | In Progress |
 | T7 | US09 | | | | Claudia Rozas | In Progress |
 
@@ -114,7 +114,8 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk3NzA4NjcsLTIwMTIyNjM1NDIsMj
-YwODk3MjQyLDk1MDAyOTg5MCwtMTYxNDEzMDYzMiwyMDk5NTY4
-NDcyLDIwOTc5NDI5ODUsLTg3NTQyNzQ5Ml19
+eyJoaXN0b3J5IjpbMTUwNjQ0NTY0NiwtMTIxOTc3MDg2NywtMj
+AxMjI2MzU0MiwyNjA4OTcyNDIsOTUwMDI5ODkwLC0xNjE0MTMw
+NjMyLDIwOTk1Njg0NzIsMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX
+0=
 -->
