@@ -4,24 +4,24 @@
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
 |-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|
-| D1 | | |  |  | | |
-| D2 | | |  |  | | |
-| D3 | | |  |  | | |
-| D4 | | |  |  | | |
-| D5 | | |  |  | | |
-| D6 | | |  |  | | |
-| D7 | | |  |  | | |
+| D1 | US01 | |  |  | | |
+| D2 | US02 | |  |  | | |
+| D3 | US03 | |  |  | | |
+| D4 | US05 | |  |  | | |
+| D5 | US06 | |  |  | | |
+| D6 | US07 | |  |  | | |
+| D7 | US09 | |  |  | | |
 
 #### Sprint Backlog 1 Documentation Evidence Business
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
 |-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|
-| D8 | US01 | |  |  | | |
-| D9 | US02 | |  |  | | |
-| D10 | US03 | |  |  | | |
-| D11 | US05 | |  |  | | |
-| D12 | US06 | |  |  | | |
-| D13 | US01 | |  |  | | |
+| D8 | US11 | |  |  | | |
+| D9 | US15 | |  |  | | |
+| D10 | US17 | |  |  | | |
+| D11 | US18 | |  |  | | |
+| D12 | US19 | |  |  | | |
+| D13 | US22 | |  |  | | |
 
 #### Sprint Backlog 1 Documentation Evidence Landing Page
 
@@ -44,7 +44,7 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTM2NjU3MiwtMTUzNjg0MzE1MywtMT
+eyJoaXN0b3J5IjpbLTEyMjg1NTkzMiwtMTUzNjg0MzE1MywtMT
 A0NDc2OTcyMywtNzg3OTkxMTg4LDY4MTIwMDU2OSwxNTA2NDQ1
 NjQ2LC0xMjE5NzcwODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0Mi
 w5NTAwMjk4OTAsLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMDk3
