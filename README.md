@@ -32,8 +32,8 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 #### Sprint Backlog 1 Deployment Evidence Web Application
 
-Documentation
-
+Para desarrollar el deployment del Web Application, se ha usado Netlify
+![image](https://media.discordapp.net/attachments/973358848159133696/1169813031270748240/image.png?ex=6556c448&is=65444f48&hm=ce252caace8fe53d2333b3e00bb0aeb970d8c79b0514f47a96113bfba94f9515&=&width=1190&height=669)
 
 #### 7.2.1.8. Team Collaboration Insights during Sprint
 
@@ -56,7 +56,7 @@ Documentation
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTk3OTM2MCwtMTA0NDc2OTcyMywtNz
+eyJoaXN0b3J5IjpbMTc1MDA2NzE1NCwtMTA0NDc2OTcyMywtNz
 g3OTkxMTg4LDY4MTIwMDU2OSwxNTA2NDQ1NjQ2LC0xMjE5Nzcw
 ODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0Miw5NTAwMjk4OTAsLT
 E2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMDk3OTQyOTg1LC04NzU0
