@@ -34,19 +34,16 @@
 | D22 | US11 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign In| Andres Reynoso |31/10/2023 |Pendiente |
 | D23 | US15 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección de Settings| Claudia Rozas |01/11/2023 |Pendiente |
 | D24 | US17 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Orders| Claudia Rozas |01/11/2023 |Pendiente |
-| D25 | US18 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Notifications | Andres Reynoso |01/11/2023 |Pendiente |
-| D26 | US19 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Favorites | Andres Reynoso | 31/10/2023 | Pendiente |
-| D27 | US22 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección List | Claudia Rozas | 31/10/2023 | Pendiente |
+| D25 | US18 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Catalogue | Andres Reynoso |01/11/2023 |Pendiente |
+| D26 | US19 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Consumer View | Andres Reynoso | 29/10/2023 | Pendiente |
+| D27 | US22 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección del perfil de restaurante | Andres Reynoso | 31/10/2023 | Pendiente |
+| D28 | US01 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign In | Claudia Rozas | 02/11/2023 | Done |
+| D29 | US02 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Settings | Andres Reynoso | 02/11/2023 | Done |
+| D30 | US03 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign Out  | Claudia Rozas | 02/11/2023 | Done |
+| D31 | US05 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Notifications | Claudia Rozas | 02/11/2023 | Done |
+| D32 | US06 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Favorites | Andres Reynoso  | 02/11/2023 | Done |
+| D33 | US07 | Diseño de Interfaz | Documento con los mockups y diseños de la sección List | Claudia Rozas | 02/11/2023 | Done |
 
-
-
-| D29 | US01 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign In | Claudia Rozas | 02/11/2023 | Done |
-| D30 | US02 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Settings | Andres Reynoso | 02/11/2023 | Done |
-| D31 | US03 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign Out  | Claudia Rozas | 02/11/2023 | Done |
-| D32 | US05 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Notifications | Claudia Rozas | 02/11/2023 | Done |
-| D33 | US06 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Favorites | Andres Reynoso  | 02/11/2023 | Done |
-| D34 | US07 | Diseño de Interfaz | Documento con los mockups y diseños de la sección List | Claudia Rozas | 02/11/2023 | Done |
-| D35 | US09 | Diseño de Interfaz | Documento con los mockups y diseños de la sección de comentarios | Andres Reynoso | 02/11/2023 | Done |
 | D36 | US01 | Manual de Usuario | Documento que guía al usuario en cómo utilizar el Sign In | Claudia Rozas | 31/10/2023 | Pendiente |
 | D37 | US02 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección Settings | Andres Reynoso | 01/11/2023 | Pendiente |
 | D38 | US03 | Manual de Usuario | Documento que guía al usuario en cómo utilizar el Sign Out | Claudia Rozas | 31/10/2023 | Pendiente |
@@ -76,7 +73,7 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc5NzY1LC02OTU0MzUwMzUsLTE1Mz
+eyJoaXN0b3J5IjpbLTQ4MzA0Mjc1LC02OTU0MzUwMzUsLTE1Mz
 Y4NDMxNTMsLTEwNDQ3Njk3MjMsLTc4Nzk5MTE4OCw2ODEyMDA1
 NjksMTUwNjQ0NTY0NiwtMTIxOTc3MDg2NywtMjAxMjI2MzU0Mi
 wyNjA4OTcyNDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLDIwOTk1
