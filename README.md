@@ -8,8 +8,8 @@
 | T2 | US02 | Visualizacion de pagina de perfil | 1. Registrarse en la aplicacion. 2. Ir a Settings | El usuario deberia de visualizar la seccion de modificar perfil | Andres Reynoso | In Progress |
 | T3 | US03 | Cerrar Sesion de usuario | 1. Ir a la seccion de Sign Out. 2. Aceptar el mensaje | El usuario deberia de poder cerrar sesion con normalidad | Claudia Rozas | In Progress |
 | T4 | US05 | Verificacion de Notificaciones | 1. Iniciar Sesion. 2. Ir a la seccion de Notifications | El usuario deberia de ver las notificaciones | Andres Reynoso | Done |
-| T5 | US06 |  | | El usuario deberia de tener la opcion de marcar como favoritos | Claudia Rozas | In Progress |
-| T6 | US07 | | | El usuario deberia de visualizar los productos que estan publicados | Claudia Rozas | In Progress |
+| T5 | US06 | Marcar como favorito  | 1. Ir a la lista. 2. Darle click al corazon al lado del producto.| El usuario deberia de tener la opcion de marcar como favoritos | Claudia Rozas | In Progress |
+| T6 | US07 | Verificacion de Productos Publicados | 1. Iniciar Sesion. 2. Ir a la seccion de List| El usuario deberia de visualizar los productos que estan publicados | Claudia Rozas | In Progress |
 | T7 | US09 | | | El usuario deberia de poder dejar su comentario en la pagina del restaurante | Claudia Rozas | In Progress |
 
 #### Sprint Backlog 1 Testing Suite Evidence Business
@@ -114,7 +114,7 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzkwNzk0NCwxNTA2NDQ1NjQ2LC0xMj
+eyJoaXN0b3J5IjpbMTM0MjUyODg1OSwxNTA2NDQ1NjQ2LC0xMj
 E5NzcwODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0Miw5NTAwMjk4
 OTAsLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMDk3OTQyOTg1LC
 04NzU0Mjc0OTJdfQ==
