@@ -4,13 +4,13 @@
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| T1 | | | | | | |
-| T2 | | | | | | |
-| T3 | | | | | | |
-| T4 | | | | | | |
-| T5 | | | | | | |
-| T6 | | | | | | |
-| T7 | | | | | | |
+| T1 | US01 | | | | | |
+| T2 | US02 | | | | | |
+| T3 | US01 | | | | | |
+| T4 | US01 | | | | | |
+| T5 | US01 | | | | | |
+| T6 | US01 | | | | | |
+| T7 | US01 | | | | | |
 
 #### Sprint Backlog 1 Testing Suite Evidence Business
 
@@ -114,7 +114,7 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTEzMjU0NSwyNjA4OTcyNDIsOTUwMD
-I5ODkwLC0xNjE0MTMwNjMyLDIwOTk1Njg0NzIsMjA5Nzk0Mjk4
-NSwtODc1NDI3NDkyXX0=
+eyJoaXN0b3J5IjpbMjczNzE4OTE5LDI2MDg5NzI0Miw5NTAwMj
+k4OTAsLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMDk3OTQyOTg1
+LC04NzU0Mjc0OTJdfQ==
 -->
