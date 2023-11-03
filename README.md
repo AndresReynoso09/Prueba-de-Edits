@@ -4,13 +4,13 @@
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| T1 | US01 |  | | | | |
-| T2 | US02 | | | | | |
-| T3 | US03 | | | | | |
-| T4 | US05 | | | | | |
-| T5 | US06 | | | | | |
-| T6 | US07 | | | | | |
-| T7 | US09 | | | | | |
+| T1 | US01 |  | | | Andres Reynoso | Done |
+| T2 | US02 | | | | Andres Reynoso | In Progress |
+| T3 | US03 | | | | Claudia Rozas | |
+| T4 | US05 | | | | Andres Reynoso | |
+| T5 | US06 | | | | Claudia Rozas | |
+| T6 | US07 | | | | Claudia Rozas | |
+| T7 | US09 | | | | Claudia Rozas | |
 
 #### Sprint Backlog 1 Testing Suite Evidence Business
 
@@ -114,7 +114,7 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIyNjM1NDIsMjYwODk3MjQyLDk1MD
-AyOTg5MCwtMTYxNDEzMDYzMiwyMDk5NTY4NDcyLDIwOTc5NDI5
-ODUsLTg3NTQyNzQ5Ml19
+eyJoaXN0b3J5IjpbLTQ3NjI4ODcxOCwtMjAxMjI2MzU0MiwyNj
+A4OTcyNDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLDIwOTk1Njg0
+NzIsMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
 -->
