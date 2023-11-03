@@ -2,12 +2,12 @@
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| T8 | US11 | | | El usuario deberia crearse su cuenta | Andres Reynoso | Done |
-| T9 | US15 | | | El usuario agrega sus redes sociales | Andres Reynoso | In Progress |
-| T10 | US17 | | | El usuario ingresa al registro de pedidos | Claudia Rozas | In Progress |
+| T8 | US11 |El usuario crea su username, email y password | | El usuario deberia crearse su cuenta | Andres Reynoso | Done |
+| T9 | US15 | El usuario agrega sus redes como facebook | | El usuario agrega sus redes sociales | Andres Reynoso | In Progress |
+| T10 | US17 |  | | El usuario ingresa al registro de pedidos | Claudia Rozas | In Progress |
 | T11  | US18 | | | El usuario ve el catalogo de platos | Claudia Rozas | In Progress |
-| T12  | US19 | | | | Andres Reynoso | Done |
-| T13  | US22 | | | | Andres Reynoso | In Progress |
+| T12  | US19 | | | El usuario ve la vista de consumidor | Andres Reynoso | Done |
+| T13  | US22 | | | El usuario lee los comentarios de los usuarios | Andres Reynoso | In Progress |
 
 #### 7.2.1.5. Execution Evidence for Sprint Review
 
@@ -95,8 +95,8 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzOTc2NzEsLTc4Nzk5MTE4OCw2ODEyMD
-A1NjksMTUwNjQ0NTY0NiwtMTIxOTc3MDg2NywtMjAxMjI2MzU0
-MiwyNjA4OTcyNDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLDIwOT
-k1Njg0NzIsMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
+eyJoaXN0b3J5IjpbODQ4MTE3OTc0LC03ODc5OTExODgsNjgxMj
+AwNTY5LDE1MDY0NDU2NDYsLTEyMTk3NzA4NjcsLTIwMTIyNjM1
+NDIsMjYwODk3MjQyLDk1MDAyOTg5MCwtMTYxNDEzMDYzMiwyMD
+k5NTY4NDcyLDIwOTc5NDI5ODUsLTg3NTQyNzQ5Ml19
 -->
