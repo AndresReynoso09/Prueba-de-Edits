@@ -9,8 +9,8 @@
 | T3 | US03 | | | El usuario deberia de poder cerrar sesion con normalidad | Claudia Rozas | In Progress |
 | T4 | US05 | | | El usuario deberia de ver las notificaciones | Andres Reynoso | Done |
 | T5 | US06 | | | El usuario deberia de tener la opcion de marcar como favoritos | Claudia Rozas | In Progress |
-| T6 | US07 | | | | Claudia Rozas | In Progress |
-| T7 | US09 | | | | Claudia Rozas | In Progress |
+| T6 | US07 | | | El usuario deberia de visualizar los productos que estan publicados | Claudia Rozas | In Progress |
+| T7 | US09 | | | El usuario deberia de poder dejar su comentario en la pagina del restaurante | Claudia Rozas | In Progress |
 
 #### Sprint Backlog 1 Testing Suite Evidence Business
 
@@ -114,8 +114,8 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjQ0NTY0NiwtMTIxOTc3MDg2NywtMj
-AxMjI2MzU0MiwyNjA4OTcyNDIsOTUwMDI5ODkwLC0xNjE0MTMw
-NjMyLDIwOTk1Njg0NzIsMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX
-0=
+eyJoaXN0b3J5IjpbLTIwMDcxOTIyMjksMTUwNjQ0NTY0NiwtMT
+IxOTc3MDg2NywtMjAxMjI2MzU0MiwyNjA4OTcyNDIsOTUwMDI5
+ODkwLC0xNjE0MTMwNjMyLDIwOTk1Njg0NzIsMjA5Nzk0Mjk4NS
+wtODc1NDI3NDkyXX0=
 -->
