@@ -31,10 +31,10 @@
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
 |-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|
-| D22 | US11 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign In| Claudia Rozas |31/10/2023 |Pendiente |
-| D23 | US15 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Settings| Andres Reynoso |31/10/2023 |Pendiente |
-| D24 | US17 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign Out| Claudia Rozas |31/10/2023 |Pendiente |
-| D25 | US18 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Notifications | Claudia Rozas |31/10/2023 |Pendiente |
+| D22 | US11 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign In| Andres Reynoso |31/10/2023 |Pendiente |
+| D23 | US15 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección de Settings| Claudia Rozas |01/11/2023 |Pendiente |
+| D24 | US17 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Orders| Claudia Rozas |01/11/2023 |Pendiente |
+| D25 | US18 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Notifications | Andres Reynoso |01/11/2023 |Pendiente |
 | D26 | US19 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Favorites | Andres Reynoso | 31/10/2023 | Pendiente |
 | D27 | US22 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección List | Claudia Rozas | 31/10/2023 | Pendiente |
 
@@ -76,9 +76,9 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE4OTMyNzYsLTY5NTQzNTAzNSwtMT
-UzNjg0MzE1MywtMTA0NDc2OTcyMywtNzg3OTkxMTg4LDY4MTIw
-MDU2OSwxNTA2NDQ1NjQ2LC0xMjE5NzcwODY3LC0yMDEyMjYzNT
-QyLDI2MDg5NzI0Miw5NTAwMjk4OTAsLTE2MTQxMzA2MzIsMjA5
-OTU2ODQ3MiwyMDk3OTQyOTg1LC04NzU0Mjc0OTJdfQ==
+eyJoaXN0b3J5IjpbLTE1NDc5NzY1LC02OTU0MzUwMzUsLTE1Mz
+Y4NDMxNTMsLTEwNDQ3Njk3MjMsLTc4Nzk5MTE4OCw2ODEyMDA1
+NjksMTUwNjQ0NTY0NiwtMTIxOTc3MDg2NywtMjAxMjI2MzU0Mi
+wyNjA4OTcyNDIsOTUwMDI5ODkwLC0xNjE0MTMwNjMyLDIwOTk1
+Njg0NzIsMjA5Nzk0Mjk4NSwtODc1NDI3NDkyXX0=
 -->
