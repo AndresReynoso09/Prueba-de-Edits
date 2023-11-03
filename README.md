@@ -7,7 +7,7 @@
 | T10 | US17 | Vista de los pedidos que otros usuarios han ordenado | 1. El usuario va a "Ordenes". 2. Se visualizaran los pedidos realizados por los clientes. | El usuario ingresa al registro de pedidos | Claudia Rozas | In Progress |
 | T11  | US18 | Visualizacion el catalogo de platos que hay | 1. El usuario ingresa a la aplicacion. 2. El usuario va a la seccion "Catalogo" | El usuario ve el catalogo de platos | Claudia Rozas | In Progress |
 | T12  | US19 | Visualizacion de vista de consumidor | 1. El usuario va a la seccion de "Catalogo". 2. El usuario presiona "Vista de consumidor" | El usuario ve la vista de consumidor | Andres Reynoso | Done |
-| T13  | US22 | Visualizacion de comentarios | | El usuario lee los comentarios de los usuarios | Andres Reynoso | In Progress |
+| T13  | US22 | Visualizacion de comentarios | 1. El usuario ve el perfil de su restaurante 2. El usuario ve los comentarios publicados | El usuario lee los comentarios de los usuarios | Andres Reynoso | In Progress |
 
 #### 7.2.1.5. Execution Evidence for Sprint Review
 
@@ -95,8 +95,8 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1MDc2OTczLC03ODc5OTExODgsNjgxMj
-AwNTY5LDE1MDY0NDU2NDYsLTEyMTk3NzA4NjcsLTIwMTIyNjM1
-NDIsMjYwODk3MjQyLDk1MDAyOTg5MCwtMTYxNDEzMDYzMiwyMD
-k5NTY4NDcyLDIwOTc5NDI5ODUsLTg3NTQyNzQ5Ml19
+eyJoaXN0b3J5IjpbMTY0MDA1MTExNiwtNzg3OTkxMTg4LDY4MT
+IwMDU2OSwxNTA2NDQ1NjQ2LC0xMjE5NzcwODY3LC0yMDEyMjYz
+NTQyLDI2MDg5NzI0Miw5NTAwMjk4OTAsLTE2MTQxMzA2MzIsMj
+A5OTU2ODQ3MiwyMDk3OTQyOTg1LC04NzU0Mjc0OTJdfQ==
 -->
