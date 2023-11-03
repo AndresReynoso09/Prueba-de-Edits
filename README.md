@@ -5,11 +5,22 @@
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
 |-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|
 | | | |  |  | | |
+| | | |  |  | | |
+| | | |  |  | | |
+| | | |  |  | | |
+| | | |  |  | | |
+| | | |  |  | | |
+| | | |  |  | | |
 
 #### Sprint Backlog 1 Documentation Evidence Business
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
 |-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|
+| | | |  |  | | |
+| | | |  |  | | |
+| | | |  |  | | |
+| | | |  |  | | |
+| | | |  |  | | |
 | | | |  |  | | |
 
 #### Sprint Backlog 1 Documentation Evidence Landing Page
@@ -33,7 +44,7 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTcyMzUyMTEsLTEwNDQ3Njk3MjMsLT
+eyJoaXN0b3J5IjpbLTE1MzY4NDMxNTMsLTEwNDQ3Njk3MjMsLT
 c4Nzk5MTE4OCw2ODEyMDA1NjksMTUwNjQ0NTY0NiwtMTIxOTc3
 MDg2NywtMjAxMjI2MzU0MiwyNjA4OTcyNDIsOTUwMDI5ODkwLC
 0xNjE0MTMwNjMyLDIwOTk1Njg0NzIsMjA5Nzk0Mjk4NSwtODc1
