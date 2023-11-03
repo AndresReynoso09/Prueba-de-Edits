@@ -4,6 +4,20 @@
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
 |-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|
+| D1 | US01 | Especificación de Requisitos |  |  | | |
+| D2 | US02 | Especificación de Requisitos |  |  | | |
+| D3 | US03 | Especificación de Requisitos |  |  | | |
+| D4 | US05 | Especificación de Requisitos |  |  | | |
+| D5 | US06 | Especificación de Requisitos |  |  | | |
+| D6 | US07 | Especificación de Requisitos |  |  | | |
+| D7 | US09 | Especificación de Requisitos |  |  | | |
+| D1 | US01 | Diseño de Interfaz |  |  | | |
+| D2 | US02 | Diseño de Interfaz |  |  | | |
+| D3 | US03 | Diseño de Interfaz |  |  | | |
+| D4 | US05 | Especificación de Requisitos |  |  | | |
+| D5 | US06 | Especificación de Requisitos |  |  | | |
+| D6 | US07 | Especificación de Requisitos |  |  | | |
+| D7 | US09 |  |  |  | | |
 | D1 | US01 | |  |  | | |
 | D2 | US02 | |  |  | | |
 | D3 | US03 | |  |  | | |
@@ -44,7 +58,7 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg1NTkzMiwtMTUzNjg0MzE1MywtMT
+eyJoaXN0b3J5IjpbMTEzODQ1NjQ2OSwtMTUzNjg0MzE1MywtMT
 A0NDc2OTcyMywtNzg3OTkxMTg4LDY4MTIwMDU2OSwxNTA2NDQ1
 NjQ2LC0xMjE5NzcwODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0Mi
 w5NTAwMjk4OTAsLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMDk3
