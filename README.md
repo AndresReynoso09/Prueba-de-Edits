@@ -4,8 +4,8 @@
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| T1 | US01 | El usuario deberia de crear su usuario, email y password  | 1. Navegar a la aplicacion. 2. Ir a la seccion de sign in | El usuario deberia de crearse una cuenta | Andres Reynoso | Done |
-| T2 | US02 | | | El usuario deberia de visualizar la seccion de modificar perfil | Andres Reynoso | In Progress |
+| T1 | US01 | Creacion de usuario, email y password  | 1. Navegar a la aplicacion. 2. Ir a la seccion de sign in | El usuario deberia de crearse una cuenta | Andres Reynoso | Done |
+| T2 | US02 | Visualizacion de pagina de perfil | 1. Registrarse en la aplicacion. 2. Ir a Settings | El usuario deberia de visualizar la seccion de modificar perfil | Andres Reynoso | In Progress |
 | T3 | US03 | | | El usuario deberia de poder cerrar sesion con normalidad | Claudia Rozas | In Progress |
 | T4 | US05 | | | El usuario deberia de ver las notificaciones | Andres Reynoso | Done |
 | T5 | US06 | | | El usuario deberia de tener la opcion de marcar como favoritos | Claudia Rozas | In Progress |
@@ -114,7 +114,7 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjI5NTc4OCwxNTA2NDQ1NjQ2LC0xMj
+eyJoaXN0b3J5IjpbMTg4MDk2NDI1NywxNTA2NDQ1NjQ2LC0xMj
 E5NzcwODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0Miw5NTAwMjk4
 OTAsLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMDk3OTQyOTg1LC
 04NzU0Mjc0OTJdfQ==
