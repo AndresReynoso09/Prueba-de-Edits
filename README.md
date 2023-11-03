@@ -10,7 +10,7 @@
 | T4 | US05 | Verificacion de Notificaciones | 1. Iniciar Sesion. 2. Ir a la seccion de Notifications | El usuario deberia de ver las notificaciones | Andres Reynoso | Done |
 | T5 | US06 | Marcar como favorito  | 1. Ir a la lista. 2. Darle click al corazon al lado del producto.| El usuario deberia de tener la opcion de marcar como favoritos | Claudia Rozas | In Progress |
 | T6 | US07 | Verificacion de Productos Publicados | 1. Iniciar Sesion. 2. Ir a la seccion de List| El usuario deberia de visualizar los productos que estan publicados | Claudia Rozas | In Progress |
-| T7 | US09 | | | El usuario deberia de poder dejar su comentario en la pagina del restaurante | Claudia Rozas | In Progress |
+| T7 | US09 | Desarrollo de comentario| 1. El usuario va a la pagina de un restaurante. 2. Escribe su comentario debajo del perfil. | El usuario deberia de poder dejar su comentario en la pagina del restaurante | Claudia Rozas | In Progress |
 
 #### Sprint Backlog 1 Testing Suite Evidence Business
 
@@ -114,8 +114,8 @@ Deployment
 
 ## 7.4. Video About the Product
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjUyODg1OSwxNTA2NDQ1NjQ2LC0xMj
-E5NzcwODY3LC0yMDEyMjYzNTQyLDI2MDg5NzI0Miw5NTAwMjk4
-OTAsLTE2MTQxMzA2MzIsMjA5OTU2ODQ3MiwyMDk3OTQyOTg1LC
-04NzU0Mjc0OTJdfQ==
+eyJoaXN0b3J5IjpbNjgxMjAwNTY5LDE1MDY0NDU2NDYsLTEyMT
+k3NzA4NjcsLTIwMTIyNjM1NDIsMjYwODk3MjQyLDk1MDAyOTg5
+MCwtMTYxNDEzMDYzMiwyMDk5NTY4NDcyLDIwOTc5NDI5ODUsLT
+g3NTQyNzQ5Ml19
 -->
